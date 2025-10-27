@@ -1,8 +1,8 @@
 # YOLOv8 Object Detection and Tracking 
 
 ## Example
-![Screenshot](./1.png)
-![Screenshot](./2.png)
+![Screenshot](./1.PNG)
+![Screenshot](./2.PNG)
 
 
 
@@ -51,3 +51,4 @@ Ces deux versions partagent le même cœur logique de détection basé sur **Ult
 ---
 ## 📚 Crédits
 Ce projet est une adaptation/modification du code original de [vir727](https://github.com/vir727/Gesture-Recogonition-App).
+
